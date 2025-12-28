@@ -1,2 +1,163 @@
-# My-second-steps-toward-HTML
-Coding help me think clearly and improve problem -solving skills
+
+<STYLE>
+  .subscribe-button{
+background-color:   brown;
+color :white;
+border: none;
+height: 36px;
+width: 120px;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 30px;
+margin-left: 20px;
+margin-bottom: 20px;
+transition: opacity 1s;
+  }
+
+  .SUBSCRIBE-BUTTON:HOVER{
+    opacity:0.8;
+  }
+  .SUBSCRIBE-BUTTON:ACTIVE{
+    opacity: 0.3;
+  }
+
+
+.join-button{
+  background-color: rgb(241, 239, 235);
+ border-color: dodgerblue;
+ border-style: solid;
+ border-width: 1px;
+ border-radius: 2px;
+  height: 36px;
+  width: 74px;
+margin-bottom: 20px;
+ cursor: pointer;
+ color: DODGERBLUE;
+ margin-right:7px;
+ transition: background-color 1s;
+
+}
+.JOIN-button:hover{
+  background-color:dodgerblue;
+  color:aliceblue;
+
+}
+.JOIN-button:active{
+  opacity: 0.3;
+}
+  
+
+  
+.tweet-button {
+background-color: rgb(2, 158, 225);
+   color: white;
+   border:none;
+    height:34px;
+   width: 72px;
+   border-radius: 18px;
+   font-weight:bold ;
+   font-size: 15px;
+   cursor:pointer;
+   margin-left: 8px;
+   margin-bottom: 20px;
+   transition: box-shadow 0.3s;}
+
+.tweet-button:hover {
+   box-shadow: 20px 20px 20px rgba(0 0 0 0.15);}
+
+
+  .Requestnow-button{
+    background-color:black ;
+    color: whitesmoke;
+    border: none;
+    height: 36px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 30px;
+    margin-left:20px;
+    transition: opacity 1s;
+  }
+   .Requestnow-button:hover{
+    opacity:0.8;
+   }
+  .Requestnow-button:active{
+    opacity:0.3;
+  } 
+
+   
+  .AddtoCart-button{
+    background-color: rgb(147, 197, 10);
+    color:  black;
+    border: none;
+    height: 36px;
+    width: 150px;
+    border-radius: 18px;
+    cursor: pointer;
+    margin-right: 7px;
+    
+  }
+   .AddtoCart-button:hover{
+    opacity:0.8;
+   }
+  .AddtoCart-button:active{
+    opacity:0.3;
+  } 
+
+ .BuyNow-button{
+    background-color: rgb(255, 77, 12);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+    margin-right: 7px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+  }
+  .BuyNow-button:hover{
+    opacity:0.8;
+   }
+  .BuyNow-button:active{
+    opacity:0.3;
+  } 
+  .Save-button{
+    background-color:whitesmoke;
+    color: dodgerblue;
+    border-color: dodgerblue;
+    height: 36px;
+    width: 80px;
+    border-radius:18px;
+    cursor: pointer;
+    margin-right: 7px;
+    transition: background-color 1s;
+    
+   }
+   .Save-button:hover{
+    background-color: darkcyan;
+    color:blanchedalmond
+    
+   }
+  .Save-button:active{
+    opacity:0.3;}
+  
+</STYLE>
+ 
+
+<button class="SUBSCRIBE-button">SUBSCREIBE 
+</button>
+
+<button class="JOIN-button">JOIN
+
+</button>
+<button class="Tweet-button">Tweet
+
+</button>
+<button class="Requestnow-button">Request now</button>
+<button class="AddtoCart-button">Add to Cart </button>
+<button class="BuyNow-button">Buy Now </button>
+<button class="Save-button">Save</button>
+<STYLE>
+  
